@@ -12,7 +12,8 @@ Package yang dibutuhkan:
 - pandas
 - jupyter notebook/ anaconda
 
-'\n\n'
+#
+#
 ### Konfigurasi dengan Database SQLite
 
 Untuk dapat melakukan transformasi data dari database SQLite ke MongoDB, pertama atur koneksi sqlite dan mongodb ke python sebagai berikut:
@@ -34,7 +35,8 @@ tabel_name = "tracks"
 database_mongo_name = "dbproject"
 collection_name = "mycollection"
 ```
-'\n\n'
+#
+#
 ### Konfigurasi dengan Database MySQL
 
 Untuk dapat melakukan transformasi data dari database MySQL ke MongoDB, pertama atur koneksi mysql dan mongodb ke python sebagai berikut:
