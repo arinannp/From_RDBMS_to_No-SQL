@@ -1,4 +1,11 @@
 # From_RDBMS_to_No-SQL
+#
+#
+### Running Program
+- Software yang digunakan adalah Jupyter Notebook dengan environment dari Anaconda, 
+- Program juga bisa dijalankan di Google Colab atau 
+- Software yang mendukung format python notebook ``` .ipynb ```
+#
 Transformasi Data dari RDBMS MySQL atau SQLite ke No-SQL MongoDB
 
 Python yang digunakan adalah Python versi 3.
